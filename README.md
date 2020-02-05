@@ -1,1 +1,1 @@
-https://travis-ci.org/aswingler1/MyFirstExample/builds/646568942
+https://travis-ci.org/aswingler1/MyFirstExample.svg?branch=master

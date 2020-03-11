@@ -5,7 +5,7 @@ using std::cout;
 
 int main()
 {
-	int x, y;
+	int x; //re-add int y
     cout<<"Hi, please enter two numbers: ";
     cin>>x>>y;
 
